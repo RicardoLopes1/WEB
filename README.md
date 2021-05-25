@@ -1,3 +1,3 @@
 # WEB
 
-Atividade da disciplina de Desenvolvimento de software para WEB
+Atividades da disciplina de Desenvolvimento de software para WEB
