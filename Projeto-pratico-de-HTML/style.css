@@ -1,0 +1,22 @@
+#wrap{
+    font-family: 'Times New Roman', Times, serif;
+}
+ul{
+    list-style: none;
+}
+#home ul li a{
+    font-size: larger; 
+    display: inline;
+} 
+#empresa-titulo{
+    font-size: 50px;
+    color: red;
+}
+#integrantes ul li{
+    display: inline-block; /*mostra em linha e em bloco*/
+    margin-right: 10px;
+}
+.figlink{
+    text-align: center;
+    
+}
